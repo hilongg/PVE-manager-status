@@ -3,14 +3,14 @@
 
 
 
-![image](https://github.com/a904055262/PVE-Temp-CPUFRE-NVME/blob/main/status.jpg)
+![image](https://github.com/hilongg/PVE-Temp-CPUFRE-NVME/blob/main/status.jpg)
 
 
 ## 🌍安装方法
 
 #### 运行以下命令下载并执行脚本：
 ```bash
-(curl -Lf -o /tmp/temp.sh https://raw.githubusercontent.com/a904055262/PVE-manager-status/main/showtempcpufreq.sh || curl -Lf -o /tmp/temp.sh https://mirror.ghproxy.com/https://raw.githubusercontent.com/a904055262/PVE-manager-status/main/showtempcpufreq.sh) && chmod +x /tmp/temp.sh && /tmp/temp.sh remod
+(curl -Lf -o /tmp/temp.sh https://raw.githubusercontent.com/hilongg/PVE-manager-status/main/showtempcpufreq.sh || curl -Lf -o /tmp/temp.sh https://mirror.ghproxy.com/https://raw.githubusercontent.com/hilongg/PVE-manager-status/main/showtempcpufreq.sh) && chmod +x /tmp/temp.sh && /tmp/temp.sh remod
 ```
 <br>
 
