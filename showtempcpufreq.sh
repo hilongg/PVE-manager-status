@@ -159,7 +159,7 @@ cat > $contentforpvejs << 'EOF'
 					
 					if (/coretemp/i.test(name)) {
 						name = 'CPU';
-						temp = temp[0] + ( temp.length > 1 ? ' ( ' +   temp.slice(1).join(' | ') + ' )' : '');
+						temp = temp[0] + '°C' + ( temp.length > 1 ? ' ( ' +   temp.slice(1).join(' | ') + ' )' : '');
 					} else {
 						temp = temp[0];
 					}
