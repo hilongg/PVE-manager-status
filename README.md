@@ -3,7 +3,7 @@
 
 
 
-![image](https://github.com/hilongg/PVE-Temp-CPUFRE-NVME/blob/main/status.jpg)
+![image](https://github.com/hilongg/PVE-manager-status/blob/main/status.jpg)
 
 
 ## 🌍安装方法
