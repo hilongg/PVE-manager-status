@@ -10,7 +10,7 @@
 
 #### 运行以下命令下载并执行脚本：
 ```bash
-(curl -Lf -o /tmp/temp.sh https://raw.githubusercontent.com/hilongg/PVE-manager-status/main/showtempcpufreq.sh || curl -Lf -o /tmp/temp.sh https://mirror.ghproxy.com/https://raw.githubusercontent.com/hilongg/PVE-manager-status/main/showtempcpufreq.sh) && chmod +x /tmp/temp.sh && /tmp/temp.sh remod
+(curl -Lf -o /tmp/temp.sh https://raw.githubusercontent.com/hilongg/PVE-manager-status/main/showtempcpufreq.sh || curl -Lf -o /tmp/temp.sh https://ghfast.top/https://raw.githubusercontent.com/hilongg/PVE-manager-status/main/showtempcpufreq.sh) && chmod +x /tmp/temp.sh && /tmp/temp.sh remod
 ```
 <br>
 
